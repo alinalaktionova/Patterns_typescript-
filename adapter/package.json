@@ -1,0 +1,26 @@
+{
+  "name": "Patterns_typescript-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinalaktionova/Patterns_typescript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinalaktionova/Patterns_typescript-/issues"
+  },
+  "homepage": "https://github.com/alinalaktionova/Patterns_typescript-#readme",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
