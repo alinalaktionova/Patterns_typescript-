@@ -1,7 +1,2 @@
-package-lock.json
-package.json
-webpack.config.js
-tsconfig.json
-node_modules
+/node_modules
 .idea
-README.md
