@@ -3,10 +3,10 @@ const path = require('path');
 module.exports = {
     devtool: 'inline-source-map',
     mode: "development",
-    entry: './adapter/src/index.ts',
+    entry: './src/index.ts',
     output: {
         filename: "bundle.js",
-        path: path.resolve(__dirname, "adapter/dist")
+        path: path.resolve(__dirname, "dist")
     },
     resolve: {
         extensions: [ '.ts', '.js' ],
